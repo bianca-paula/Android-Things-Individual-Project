@@ -48,7 +48,7 @@
             | Command   | Action                                                                                 |
             | ----------| ---------------------------------------------------------------------------------------|
             | turn on   | Blink all three LEDs to signal the application is on                                   |
-            | turn off	| Turn RED LED on to signal the application is off and set fan speed to 0                |
+            | turn off  | Turn RED LED on to signal the application is off and set fan speed to 0                |
             | 0         | Set the fan mode 0, turn off LEDs and set fan speed to 0                               |
             | 1         | Set the fan mode 1, turn on YELLOW LED and off the others and set fan speed to 130     |
             | 2         | Set the fan mode 2, turn on GREEN LED and off the others and set fan speed to 254      |
