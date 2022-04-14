@@ -13,6 +13,8 @@
 	
 	
 # 2. Schematics
+
+![Schematics](https://github.com/bianca-paula/Android-Things-Individual-Project/blob/main/Schematics_IndividualProject_CheranBianca.png)
 	
 # 3. Pre-Requisites
 	- Arduino UNO R3 Controller Board
@@ -53,3 +55,4 @@
         3. If a correct command was given, the corresponding action will take place and a message with the command will also be printed
         on the command line
 # 6. Demo
+![Demo](https://github.com/bianca-paula/Android-Things-Individual-Project/blob/main/demo.JPEG)
